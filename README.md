@@ -1,4 +1,4 @@
-# Nonuniqueness for a convex BSDE\protect with one exponential moment
+# Nonuniqueness for a convex BSDE with one exponential moment
 
 Ji Ho Bae, LawAll AI
 
